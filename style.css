@@ -1,0 +1,33 @@
+.d1{
+    width: 60%;
+    margin: auto;
+  }
+  p{
+    color: blue;
+  }
+  .class2{
+    text-align: center;
+    border-style: solid 1px;
+    width: 600px;
+    margin: auto;
+    background-color: ghostwhite;
+  }
+  .c1{
+    border-color: green;
+    width: 70%;
+    height: 25px;
+  }
+  .c2{
+    width: 10%;
+    margin: auto;
+    color: royalblue;
+    border: 1px
+  }
+  .b1{
+    background-color: royalblue;
+    color: white;
+    width: 100px;
+  }
+  .pad1{
+    padding-right: 10px;
+  }
